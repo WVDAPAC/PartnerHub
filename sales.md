@@ -23,14 +23,14 @@ The cost to the customer for WVD is composed of 3 elements:
 3. The license costs for control plane access (Citrix & VMWare are licenses separately, Microsoft (Native) control plane is free).
 
 More detailed insight into costings and to see some estimated scenario pricing, follow this link:  
-https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/
+[Enabling Secure Remote Work (MS Inspire 2020)](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)  
 
 Calculator (for Azure components):  
-https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop  
+[Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop)  
 
 M365 Licensing:  
-https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans  
-https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion
+[Enterprise Plans)](https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans)  
+[Business Premium Plans)](https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion)  
 
 ***
 
@@ -38,8 +38,8 @@ https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion
 All the benefits of WVD on Azure are available to be accessed either natively as a Microsoft 1st-party service or through our partners at Citrix and VMWare. If your customer already leverages the capabilities of Citrix or VMWare Horizon in their business and wants to migrate their VDI service to the cloud, all the benefits of WVD on Azure can be unlocked while retaining the Citrix or VMWare control plane, clients and tooling they are familiar with.
 
 ### Partner Offerings from Citrix and VMWare
-https://www.citrix.com/en-nz/global-partners/microsoft/azure.html  
-https://www.vmware.com/products/horizon-cloud-virtual-desktops.html 
+[Citrix Cloud)](https://www.citrix.com/en-nz/global-partners/microsoft/azure.html)  
+[VMWare Horizon](https://www.vmware.com/products/horizon-cloud-virtual-desktops.html)  
 
 ***
 

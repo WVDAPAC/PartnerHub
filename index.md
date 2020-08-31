@@ -24,9 +24,9 @@ This site contains a set of guidance and curated content to help Microsoft partn
 
 
 ## Upcoming Webinars
-|        Title          |  Data / Time (SGT)  |  Link                                                    |
-| --------------------- | --------- |--------------------------------------------------------- |
-| **Microsoft meets Community: WVD**   |  30 September 2020 - 5:45p     | [Event Page](https://aka.ms/wvdevent2020) |
+| Title                                | Date / Time (SGT)         | Link                                                     |
+| ------------------------------------ | ------------------------- |--------------------------------------------------------- |
+| **Microsoft meets Community: WVD**   | 30 September 2020 @ 5:45p | [Event Page](https://aka.ms/wvdevent2020)                |  
 
 
 ---
