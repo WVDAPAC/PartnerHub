@@ -1,7 +1,7 @@
-# Welcome to the APAC WVD Partner Hub!
+# Welcome to the WVD APAC Partner Portal
 
 > DISCLAIMER  
-> The collated set of guidance on this page is for your convenience. Please note that best efforts are taken
+> The collated set of guidance on this page is here for your convenience. Please note that best efforts are taken
 > to keep the information and guidance on this page up to date but there is potential for it to become outdated 
 > or inaccurate. Please always refer to a Microsoft corporate managed website for the most up to date, reliable information.
 
@@ -24,6 +24,7 @@ This site contains a set of guidance and curated content to help Microsoft partn
 
 
 ## Upcoming Webinars
+
 | Title                                | Date / Time (SGT)         | Link                                                     |
 | ------------------------------------ | ------------------------- |--------------------------------------------------------- |
 | **Microsoft meets Community: WVD**   | 30 September 2020 @ 5:45p | [Event Page](https://aka.ms/wvdevent2020)                |  
