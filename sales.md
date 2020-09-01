@@ -17,7 +17,7 @@ Windows Virtual Desktop (WVD) is a service exclusive to Microsoft Azure which al
 | -------------------------------- | --------- |--------------------------------------------------------- |
 | **Overview from Inspire 2020**   |  Video (30 mins)    | [Enabling Secure Remote Work](https://myinspire.microsoft.com/sessions/371d3fb4-026c-4d7c-a1db-8d8bac2ee98a?source=sessions) |
 
-***
+
 
 ## Costs
 The cost to the customer for WVD is composed of 3 elements:
@@ -33,9 +33,9 @@ More detailed insight into costings and to see some estimated scenario pricing, 
 | **Azure Pricing Calculator**     | Web Tool  | [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop)  |
 | **M365 Licensing**               | Website   | [Enterprise Plans](https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans)  <br/> [Business Premium Plans](https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion)  |
 
-***
 
-## WVD vs Citrix Cloud & VMWare Horizon Cloud
+
+## WVD + Citrix Cloud & VMWare Horizon Cloud
 All the benefits of WVD on Azure are available to be accessed either natively as a Microsoft 1st-party service or through our partners at Citrix and VMWare. Customers can take advantage of all the benefits of WVD while retaining the Citrix or VMWare toolset they are already familiar with. See the links below for more detail on the respective offerings. 
 
 ### Partner Offerings from Citrix and VMWare
@@ -46,7 +46,7 @@ All the benefits of WVD on Azure are available to be accessed either natively as
 | VMWare                           | Website   | [VMWare Horizon](https://www.vmware.com/products/horizon-cloud-virtual-desktops.html) |
 | Hybrid Citrix/VMWare + WVD Webinar | Webinar Recording     | [Modernize your VDI Investments](https://info.microsoft.com/ww-landing-azure-webinar-series-modernize-your-vdi-investments-with-windows-virtual-desktop.html) |
 
-***
+
 
 
 
@@ -56,7 +56,7 @@ All the benefits of WVD on Azure are available to be accessed either natively as
 | -------------------------------- | --------- |--------------------------------------------------------- |
 | Forrester Report on VDI (July 2020) | PDF       | [The Future of VDI is Cloud](https://azure.microsoft.com/en-gb/resources/the-future-of-vdi-is-cloud/) |
   
-***
+
 
    
 ## Resources to Support Customer Conversations

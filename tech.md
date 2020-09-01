@@ -1,4 +1,4 @@
-# Content for Technical Consultants & Engineers
+# Technical Content for Consultants & Engineers
 
 > DISCLAIMER  
 > The collated set of guidance on this page is here for your convenience. Please note that best efforts are taken
@@ -21,11 +21,11 @@ Guidance from here on is to deploy any new WVD environment using ARM based WVD a
 
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
-| Overview of the changes with the new WVD | Video | [Windows Virtual Desktop updates for admins (2020)](https://www.youtube.com/watch?v=zmsTD9Hd-xY) |
-| Azure Friday WVD Overview  | Video | [Enabling secure remote work using Windows Virtual Desktop](https://www.youtube.com/watch?v=dL1LpGpGRIo) |
+| Overview of the changes with the new WVD | Video (7 mins) | [Windows Virtual Desktop updates for admins (2020)](https://www.youtube.com/watch?v=zmsTD9Hd-xY) |
+| Azure Friday WVD Overview  | Video (25 mins) | [Enabling secure remote work using Windows Virtual Desktop](https://www.youtube.com/watch?v=dL1LpGpGRIo) |
   
 
-***
+
   
 
 ## WVD Requirements
@@ -92,8 +92,8 @@ Storage options
 
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
-| Microsoft Mechanics: VDI Migration | Video   | [How to Migrate VDI to WVD](https://www.youtube.com/watch?v=rkKaWT-tN54) |
-| Christiaan Brinkhoff: VDI Migration | Video  | [Accelerate VDI Migration to WVD](https://www.youtube.com/watch?v=T9oJFsHcnLM&feature=youtu.be&t=86) |
+| Microsoft Mechanics: VDI Migration | Video (14 mins)   | [How to Migrate VDI to WVD](https://www.youtube.com/watch?v=rkKaWT-tN54) |
+| Christiaan Brinkhoff: VDI Migration | Video (51 mins) | [Accelerate VDI Migration to WVD](https://www.youtube.com/watch?v=T9oJFsHcnLM&feature=youtu.be&t=86) |
 
 ## Automation
 

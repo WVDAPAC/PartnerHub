@@ -1,6 +1,7 @@
 # Training, Events & Webinars
 
 ## Training Courses
+
 | Title                                | Date / Time (SGT)         | Link                                                     |
 | ------------------------------------ | ------------------------- |--------------------------------------------------------- |
 | **Microsoft Learn**   | On Demand | [WVD Learning Path](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/)                |  
