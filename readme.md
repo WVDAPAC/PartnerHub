@@ -1,4 +1,4 @@
-# Welcome to the APAC WVD Partner Hub!
+# Welcome to the WVD APAC Partner Portal
 
 > DISCLAIMER  
 > The collated set of guidance on this page is for your convenience. Please note that best efforts are taken

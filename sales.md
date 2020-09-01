@@ -12,7 +12,10 @@ This page is intended to provide insight, guidance and resoureces for partner sa
 Windows Virtual Desktop (WVD) is a service exclusive to Microsoft Azure which allows remote user access to a managed corporate Windows desktop environment. It provides some compelling key benefits over traditional (on-premises) virtual desktop infrastructure (VDI) services and competing services from other cloud vendors.  
 
 ## Understanding the Value Proposition
-Video (30 mins): [Enabling Secure Remote Work (MS Inspire 2020)](https://myinspire.microsoft.com/sessions/371d3fb4-026c-4d7c-a1db-8d8bac2ee98a?source=sessions)
+
+| Title                            |  Content  |  Link                                                    |
+| -------------------------------- | --------- |--------------------------------------------------------- |
+| **Overview from Inspire 2020**   |  Video (30 mins)    | [Enabling Secure Remote Work](https://myinspire.microsoft.com/sessions/371d3fb4-026c-4d7c-a1db-8d8bac2ee98a?source=sessions) |
 
 ***
 
@@ -22,31 +25,34 @@ The cost to the customer for WVD is composed of 3 elements:
 2. The Microsoft 365 license cost for end-user access to the service
 3. The license costs for control plane access (Citrix & VMWare are licenses separately, Microsoft (Native) control plane is free).
 
-More detailed insight into costings and to see some estimated scenario pricing, follow this link:  
-[Enabling Secure Remote Work (MS Inspire 2020)](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/)  
+More detailed insight into costings and to see some estimated scenario pricing, follow these links:  
 
-Calculator (for Azure components):  
-[Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop)  
-
-M365 Licensing:  
-[Enterprise Plans)](https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans)  
-[Business Premium Plans)](https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion)  
+| Title                            |  Content  |  Link                                                    |
+| -------------------------------- | --------- |--------------------------------------------------------- |
+| **WVD Pricing Overview**         |  Website  | [Enabling Secure Remote Work](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/) |
+| **Azure Pricing Calculator**     | Web Tool  | [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop)  |
+| **M365 Licensing**               | Website   | [Enterprise Plans](https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans)  <br/> [Business Premium Plans](https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion)  |
 
 ***
 
 ## WVD vs Citrix Cloud & VMWare Horizon Cloud
-All the benefits of WVD on Azure are available to be accessed either natively as a Microsoft 1st-party service or through our partners at Citrix and VMWare. If your customer already leverages the capabilities of Citrix or VMWare Horizon in their business and wants to migrate their VDI service to the cloud, all the benefits of WVD on Azure can be unlocked while retaining the Citrix or VMWare control plane, clients and tooling they are familiar with.
+All the benefits of WVD on Azure are available to be accessed either natively as a Microsoft 1st-party service or through our partners at Citrix and VMWare. Customers can take advantage of all the benefits of WVD while retaining the Citrix or VMWare toolset they are already familiar with. See the links below for more detail on the respective offerings. 
 
 ### Partner Offerings from Citrix and VMWare
-[Citrix Cloud)](https://www.citrix.com/en-nz/global-partners/microsoft/azure.html)  
-[VMWare Horizon](https://www.vmware.com/products/horizon-cloud-virtual-desktops.html)  
+| Title                            |  Content  |  Link                                                    |
+| -------------------------------- | --------- |--------------------------------------------------------- |
+| Citrix                          | Website    | [Citrix Cloud](https://www.citrix.com/en-nz/global-partners/microsoft/azure.html)  |
+| VMWare                           | Website   | [VMWare Horizon](https://www.vmware.com/products/horizon-cloud-virtual-desktops.html) |
+| Hybrid Citrix/VMWare + WVD Webinar | Webinar Recording     | [Modernize your VDI Investments](https://info.microsoft.com/ww-landing-azure-webinar-series-modernize-your-vdi-investments-with-windows-virtual-desktop.html) |
 
 ***
 
 
 
 ## The Market Opportunity
-Forrester Report: [The Future of VDI is Cloud](https://azure.microsoft.com/en-gb/resources/the-future-of-vdi-is-cloud/)  
+| Title                            |  Content  |  Link                                                    |
+| -------------------------------- | --------- |--------------------------------------------------------- |
+| Forrester Report on VDI (July 2020) | PDF       | [The Future of VDI is Cloud](https://azure.microsoft.com/en-gb/resources/the-future-of-vdi-is-cloud/) |
   
 ***
 
@@ -58,5 +64,5 @@ Forrester Report: [The Future of VDI is Cloud](https://azure.microsoft.com/en-gb
 | **Solution Brief**   |  PDF     | [Solution Brief](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-solution-brief) |
 | **High-Level Presentations**   |  PPT     | [Overview Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-deck)  <br/>  [Level 100 Presentation Deck](https://www.microsoft.com/azure/partners/resources/microsoft-windows-virtual-desktop-level-100-overview)  |
 | **Deeper Presentations**   |  PPT     | [Level 200 Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-l200-presentation) | 
-| **More Resources** | WEB | [More Partner Hub Resources](https://www.microsoft.com/azure/partners/resources?filters=migrate-existing-apps,windows-virtual-desktop) |
+| **More Resources** | Website | [More Partner Hub Resources](https://www.microsoft.com/azure/partners/resources?filters=migrate-existing-apps,windows-virtual-desktop) |
 
