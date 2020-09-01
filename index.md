@@ -13,27 +13,22 @@ This site contains a set of guidance and curated content to help Microsoft partn
 [Technical Enablement & Resources](tech.md)  
 
 [Microsoft Partner Programs & Opportunities](partner.md)  
-[Microsoft Official Training Resources](training.md)  
+  
+[Training, Events & Webinars](training.md)  
 
----
-
-## Keeping Up to Date
-[What's New with WVD](https://aka.ms/wvdwhatsnew)  
-[WVD Roadmap](https://aka.ms/wvdroadmap)  
-[FAQ](https://docs.microsoft.com/en-us/azure/virtual-desktop/faq)  
 
 
 ## Upcoming Webinars
 
 | Title                                | Date / Time (SGT)         | Link                                                     |
 | ------------------------------------ | ------------------------- |--------------------------------------------------------- |
-| **Microsoft meets Community: WVD**   | 30 September 2020 @ 5:45p | [Event Page](https://aka.ms/wvdevent2020)                |  
+| **Microsoft Meets Community: WVD**   | 30 September 2020 @ 5:45pm | [Event Page](https://aka.ms/wvdevent2020)                |  
+
+Complete list of training, events and webinars [here](training.md)
 
 
----
-
-## Community Group Engagement
-Community Meetup Group: [Japan + APAC WVD User Group](https://www.meetup.com/Japan-Asia-Pacific-Windows-Virtual-Desktop-User-Group/)  
-Community Meetup Group: [Australia + New Zealand WVD User Group](https://www.meetup.com/Australia-New-Zealand-Windows-Virtual-Desktop-User-Group/)
-
+## Keeping Up to Date
+[What's New with WVD](https://aka.ms/wvdwhatsnew)  
+[WVD Roadmap](https://aka.ms/wvdroadmap)  
+[FAQ](https://docs.microsoft.com/en-us/azure/virtual-desktop/faq)  
 

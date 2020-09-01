@@ -39,6 +39,7 @@ More detailed insight into costings and to see some estimated scenario pricing, 
 All the benefits of WVD on Azure are available to be accessed either natively as a Microsoft 1st-party service or through our partners at Citrix and VMWare. Customers can take advantage of all the benefits of WVD while retaining the Citrix or VMWare toolset they are already familiar with. See the links below for more detail on the respective offerings. 
 
 ### Partner Offerings from Citrix and VMWare
+
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
 | Citrix                          | Website    | [Citrix Cloud](https://www.citrix.com/en-nz/global-partners/microsoft/azure.html)  |
@@ -50,6 +51,7 @@ All the benefits of WVD on Azure are available to be accessed either natively as
 
 
 ## The Market Opportunity
+
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
 | Forrester Report on VDI (July 2020) | PDF       | [The Future of VDI is Cloud](https://azure.microsoft.com/en-gb/resources/the-future-of-vdi-is-cloud/) |
@@ -63,6 +65,6 @@ All the benefits of WVD on Azure are available to be accessed either natively as
 | --------------------- | --------- |--------------------------------------------------------- |
 | **Solution Brief**   |  PDF     | [Solution Brief](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-solution-brief) |
 | **High-Level Presentations**   |  PPT     | [Overview Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-deck)  <br/>  [Level 100 Presentation Deck](https://www.microsoft.com/azure/partners/resources/microsoft-windows-virtual-desktop-level-100-overview)  |
-| **Deeper Presentations**   |  PPT     | [Level 200 Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-l200-presentation) | 
-| **More Resources** | Website | [More Partner Hub Resources](https://www.microsoft.com/azure/partners/resources?filters=migrate-existing-apps,windows-virtual-desktop) |
+| **More In-Depth Presentations**   |  PPT     | [Level 200 Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-l200-presentation) <br/> [Level 300 Technical Requirements Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-technical-requirements) | 
+| **More Resources** | Website | [Microsoft Partner Hub Resource Catalog](https://www.microsoft.com/azure/partners/resources?filters=migrate-existing-apps,windows-virtual-desktop) |
 

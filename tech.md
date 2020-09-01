@@ -1,4 +1,4 @@
-# Content for Technical Consultants + Engineers
+# Content for Technical Consultants & Engineers
 
 > DISCLAIMER  
 > The collated set of guidance on this page is here for your convenience. Please note that best efforts are taken
@@ -8,7 +8,7 @@
 ## Introduction
 Development of WVD capabilities is progressing at a rapid pace. For technical consultant teams, keeping across the latest guidance, features and configuration options is important to ensure your customers are getting the best value for their money while also ensuring business & non-functional requirements are also met.
 
-To be a good WVD consultant, you need knowledge in these areas:
+To be good with WVD, you need knowledge in multiple areas including Azure, M365, Windows Server, Active Directory Domain Services, Azure Active Directory and more. Find links below covering material you should be familiar with.
 
 ## Service History & Context
 The original WVD service in Azure has been Generally Available since 2019. While this version of WVD worked great, it was cumbersome to deploy and manage. This version was referred to as the "Fall 2019 update" but is now referred to as "WVD Classic"
@@ -36,7 +36,7 @@ At the highest level, WVD deployments need:
 - M365 licensing for the intended end-users  
 
 More detail about requirements and a sample / reference architecture can be found here:  
-https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#requirements  
+[WVD Requirements Overview](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#requirements)   
 
 
 ## Customer Environment Requirements
@@ -83,3 +83,17 @@ As the session host VMs are required to be Domain-Joined, knowledge of Active Di
 
 ## Endpoint Management
 How will you be performing OS updates? Installing the latest applications? Changing settings?
+
+## Profile Management
+FSLogix Content
+Storage options
+
+## Migration
+
+| Title                            |  Content  |  Link                                                    |
+| -------------------------------- | --------- |--------------------------------------------------------- |
+| Microsoft Mechanics: VDI Migration | Video   | [How to Migrate VDI to WVD](https://www.youtube.com/watch?v=rkKaWT-tN54) |
+| Christiaan Brinkhoff: VDI Migration | Video  | [Accelerate VDI Migration to WVD](https://www.youtube.com/watch?v=T9oJFsHcnLM&feature=youtu.be&t=86) |
+
+## Automation
+
